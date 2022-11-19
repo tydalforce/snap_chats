@@ -8,5 +8,6 @@ https://support.snapchat.com/en-US/article/download-my-data
 extract the .zip archive somewhere
 Update the "sc_archive_root =" path in the script to point to this directory, and run
 
-Requires Python 3.x and BeautifulSoup 4 (bs4)
+Requires Python 3.x
+Requires BeautifulSoup 4 (bs4) and cssutils
 
